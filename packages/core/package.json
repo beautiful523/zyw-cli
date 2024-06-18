@@ -1,6 +1,6 @@
 {
   "name": "@zyw-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "zhouyawen <zhouyawen@yuanbaobaoxian.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zyw-cli/utils": "^0.0.1"
+    "@zyw-cli/utils": "^0.0.2"
   },
   "gitHead": "c859a3d118422ce3634f4fa6d8d7a02f6dd42f39"
 }

@@ -25,6 +25,5 @@
   },
   "dependencies": {
     "@zyw-cli/utils": "^0.0.2"
-  },
-  "gitHead": "c859a3d118422ce3634f4fa6d8d7a02f6dd42f39"
+  }
 }

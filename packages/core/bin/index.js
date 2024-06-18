@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log("hello zyw cli")
+console.log("hello again zyw cli")
